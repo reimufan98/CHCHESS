@@ -1,9 +1,9 @@
 body {
-  background-color: #999999;
+  background-color: Black;
 }
 
 h1 {
-  color: Red;
+  color: White;
   text-align: center;
   font-family: arial;
 }
@@ -12,6 +12,7 @@ p {
   font-family: verdana;
   text-align: center;
   font-size: 15px;
+  color: White;
 }
 p2 {
   font-family: verdana;
